@@ -1,3 +1,6 @@
+.wysihtml5-editor {
+  white-space: pre-wrap;
+}
 
 .wysiwyg-font-size-smaller {
   font-size: smaller;
