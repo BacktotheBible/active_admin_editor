@@ -1,5 +1,9 @@
 @import 'active_admin/mixins';
 
+.wysihtml5-editor {
+  white-space: pre-wrap;
+}
+
 body form .html_editor {
   .wrap {
     width: 76%;
